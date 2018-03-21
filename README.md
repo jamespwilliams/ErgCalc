@@ -1,5 +1,8 @@
 # ErgCalc
 
+[App Store](https://itunes.apple.com/us/app/ergcalc-split-calculator/id1200730700?mt=8)
+
+
 iOS app that allows users to convert ergometer data between various formats. The app supports the basic functionality for converting data between splits, time and meters. It can also calculate predicted times for different distances based on previous distance results, using [Paul's Law](http://www.machars.net/). The app can also calculate wattage based on splits, and weight adjust 2k scores. All of these are useful features that can be found elsewhere scattered around the internet, but I had yet to find a concise application combining all of them, so I decided to create this app. I also decided to get creative with some of the text box formatting in the app, making use of [TextFieldEffects](https://github.com/raulriera/TextFieldEffects).
 
 <p float="left">
